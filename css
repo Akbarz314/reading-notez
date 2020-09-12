@@ -1,0 +1,22 @@
+#**Understanding CSS**
+This *chapter* specifies the following:
+1. How to specify colors (3 ways you can indicate your choice of colors)
+2. Color Terminogy
+3. Contrast and ensuring that text is readable
+4. Background colors for behind enntire or partial page document
+
+##*Foreground color:
+-**RGB Values**- specify how much of a color is used
+-*Hex Code*- six digit codes that represent the amount of color preceded by a # or hash. EX: #ee3e80
+-**Color Names**- there are 147 predefined color names recognized by browsers.
+
+###**Understanding Color**
+1. Hue: near to the colloquial idea of color
+2. Saturation: Refers to the amount of gray in a color
+3. Brightness: How much black is in a color
+
+##*Summary Folks*
+- Color brings your site to life, and conveys the mood
+-3 ways to specify color: hex codes, and color names
+-Ensure contrast between any text and background color
+-CSS3 introduces an extra value for RGB colors to indicate opacity.

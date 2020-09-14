@@ -1,0 +1,41 @@
+## LEarning how to make your web pages more attractive, controlling the design using **CSS**
+1. **Introduce you to how CSS works
+2. *Teach you how to write CSS rules* 
+3. Show you how CSS rules apply to HTML pages
+
+### Understanding CSS: Thinking inside the box
+- The key to understanding how CSS works is to imagine that ther's an invisible box around every HTML element.
+
+##**Block and inline elements**
+- Block level elements: look like they start on a new line. <h1>- <h6>, <p> and <div> elements.
+. *Inline elements flow within the text and don't start on a new line. <b>, <i>.<img>, <em> and <span>
+
+### CSS allows you to create rules that control the way each individual box (and the contents of that box) is presented.
+
+##** Style Examples**
+
+1. Boxes:Width and Height, Borders, background color, and images position in the browser window.
+2. Text: Typeface, size, color, italics, bold, uppercase, lowercase, small-caps 
+3. Specific: there are specific ways in which you can style elements such as lists, tables, and forms.
+
+## HOW CSS ASSOCIATES STYLE RULES WITH ELEMENTS
+CSS works by associating rules with HTML elements. It contains two parts, a *selcetor* and a *declaration*
+
+1. Selector- indicate which element the rule applies to.
+2. Declarations- indicate how the elements referred in a selector should be styles.
+
+###CSS properties affect how elements are displayed.
+- CSS declarations sit inside curly brackets and each is made up of two parts: property, and a value.
+1. Properties- indicated the aspect of an element you want to change. Color, font, width, height and border.
+2. Values: specify settings you want to use for the chosen properties.
+
+### COLOR BRINGS YOUR PAGE TO LIFE
+1. How to specify colors
+2.Color terminology
+3. Contrast, ensure your text is readable.
+4. Background colors for entire or parts of page.
+
+## *Foreground Color*
+. RGB VALUES: these express colors in terms of how much red, green and blue are used to make it up.
+. HEX CODES: six digit codes that represent the amount of red, green,and blue in a color preceded by a #. #ee3e80
+. Color names: There's 147 predefined color names recognized by browsers.

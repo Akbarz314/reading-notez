@@ -1,0 +1,21 @@
+## What is a script? 
+1. A script is a series of instructions that a computer cab follow to achieve a goal.
+
+#Writing a script
+. To write a script you need to first state your goal and then list the tasks that need to be comppleted in order to achieve it.
+
+###**What do you want to achieve?**
+1. Define the goal: define the task you want to achieve. Think of this as a puzzle for the computer to solve.
+2. Design the script: Split the goal out into a series of tasks that are going to be involved in solving this puzzle
+3. Code each step: Each of the steps needs to be written in a programming  language that the computer understands. 
+
+### Exploring Expressions
+Expression: Evaluates into a single value. There are two types of expressions
+- Expressions that just assign a value to a variable.
+-Expressions that use two or more values to return a single value.
+
+Expressions rely on *operators*. They allow programmers to create a single value from one or more values.
+
+There is just one string operator: the + symbol. It's used to join the strings on either side of it.
+
+*Arrays* are special types of variables that store more than one piece of related info.

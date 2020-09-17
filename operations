@@ -1,0 +1,18 @@
+###**OPERATIONS AND LOOPS**
+##*COMPARISON OPERATORS: EVALUATING CONDITIONS
+8w
+- You can evaluate a situation by comparing one value in the script to what you expect it might be. The result will be a Boolean; *true* or *false*
+###**Local OPERATORS**
+
+1. Logical operators allow you to compare the results of more than one comparison operator
+
+### What are loops###
+- *Loops* check a condition. If it returns true, a code block will run. Then the condition will run again. It repeats until the condition returns true or false. There are three common types of loops.
+
+1. **FOR**: use when you need to run code a specific number of times. In this loop a condtion is usually a counter which is used to tell how many times the loop should run.
+2. **While**: if you don't know how many times a code should be run, use a *while loop*. Here the conditon can be something other than a counter. The code will continue to loop for as long as the condition is true.
+3. **Do While**: very similiar to a while loop, has one key difference. It will always run the statements inside the curly braces at least once, even if the condition evaluates to *false*.
+
+1. Initialization: Create a variable and set it to 0. The variable is commonly called i, and acts as the counter. var i= 0;
+2. Condition: The loop should continue to run until the counter reaches a specified number. i < 10;
+3. Update: Every time the loop has run the statments in the curly braces, it adds one to the counter. 1++

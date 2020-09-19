@@ -1,0 +1,25 @@
+##**HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER**
+-Web developers usually talk about three languages that are used to create web pages.
+1. HTML
+2. CSS
+3. Javascript
+
+Where possible, aim to keep the threo languages in seperate files, with the HTML page linking to CSS and Javascript files.
+- Each language forms a *seperate* layer with a different purpose. Each layer from left to right builds on the previous one.
+ 
+#**Progressive Enhancement**
+
+- These 3 layers form the basis of a popular approach to building web pages called progressive ehancement.
+
+1. HTML ONLY: Starting with the HTML layer allows you to focus on the most important thing about your site. It's *content*.
+2. HTML & CSS: Adding the CSS rules in a seperate file keeps rules regarding to how the page looks away from the content itself.
+3. HTML, CSS, and Javascript: The Javascript is added last and enhances the usability of the page or the experience of the interacting with the site.
+
+####**WHAT IS A VARIABLE**
+1. A SCRIPT will have to temporarily store the bits  info it needs to do a job. It stores this data in a *variable*.
+- A variable is a good name for this concept b/c the data stored in a variable can change (or vary) each time a script runs.
+
+### How do we delare Variables?
+
+- Before you can use a variAble, you need to announce that you want to use it. This involves creating the variable and giving it a name. Programmers say that you **declare** the  variable.
+1. Once you have created a variable, you can tell it what info you would like it to store for you. Programmers say that you assign a value to the variable.

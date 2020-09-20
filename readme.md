@@ -14,3 +14,5 @@ I'm **Rashad**. I enjoy cooking, reading, and learning to code!!!. {Github}(http
 1. Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform
 2. Markdown makes style editing easy!
 3.   Markdown is just regular text with a few non-alphabetic characters thrown in, like
+
+###**TABLE OF CONTENTS**

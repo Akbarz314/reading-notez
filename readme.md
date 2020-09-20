@@ -16,3 +16,14 @@ I'm **Rashad**. I enjoy cooking, reading, and learning to code!!!. {Github}(http
 3.   Markdown is just regular text with a few non-alphabetic characters thrown in, like
 
 ###**TABLE OF CONTENTS**
+1. Theme
+2. CSS
+3. CSS Design
+4. How computers work & more
+5. Create HTML website
+6. Operations
+7. Programming w/ Javascript
+8. Update readme.md
+9. Create Script for web page
+10. Stregnth's and values
+11. Create the coder's computer

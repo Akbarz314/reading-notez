@@ -23,7 +23,7 @@ I'm **Rashad**. I enjoy cooking, reading, and learning to code!!!. {Github}(http
 5. <a href="https://github.com/Akbarz314/reading-notez/commit/38d9f10a817738afde90b0d20406391c24f84bbd" target="blank">Create HTML Website</a>
 6. <a href="https://github.com/Akbarz314/reading-notez/commit/e414839548302d2fee76791cba8070c065e15524" target="blank">Operations</a>
 7. <a href="https://github.com/Akbarz314/reading-notez/commit/7f56664f98aa3789b8f82b0dcfc64d9e16f075e3" target="blank">Programming with Javascript</a>
-8.<a href="https://github.com/Akbarz314/reading-notez/commit/d5ab93692f495cb67c08e063f378f88420a7dc37" target="blank">Update readme.md</a>
+8.<a href="https://github.com/Akbarz314/reading-notez/commit/d5ab93692f495cb67c08e063f378f88420a7dc37" target="blank">Update readme md file</a>
 9. <a href="https://github.com/Akbarz314/reading-notez/commit/fc96558668d85228ca9f48f69bc451d4b75a56d7" target="blank">Create Script for web page</a>
 10. <a href="https://github.com/Akbarz314/reading-notez/commit/e844de578c716d1b897c30d1191b13a51a80d6cb" target="blank">Strength's and Values</a>
 11. <a href="https://github.com/Akbarz314/reading-notez/commit/945b59c64854d803711f33d3347b9540adde32c2" target="blank">Create the coder's computer</a>

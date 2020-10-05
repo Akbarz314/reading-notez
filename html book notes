@@ -1,0 +1,19 @@
+### HTML lists
+- *Odered Lists*: list where each item in the list is numbered.
+- **Unordered Lists: list that began with a bullet point.
+- Definition lists: made up of a set of items along with definitions for each of these items.
+1. There are 3 types of html lists
+2. List can be nested inside one another.
+
+ Links are the defining feature of the web b/c they allow you to move from one web page to another.
+ Links are created using the <a> element.
+ When you link to another website, the value of the *href* attribute will be the full web address of the site.
+ 
+ ##BOXES
+ . Controlling the size of boxes
+ . Box model for borders, margin and padding
+ . Displaying and hiding boxes
+ 
+ Every box consist of three available properties that can be adjusted to control it's appereance. 
+ 
+ CSS3 has introduced the ability to create image borders and rounded borders.

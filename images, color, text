@@ -1,0 +1,32 @@
+##**Images**
+1. How to add images to pages
+2. Choosing the right format
+3. Optimizing images for the web
+
+There are many reasons why you might add an image to your web page. You might want to include a logo, photograph, illustatrion, diagram, or chart.
+1. The <img> element is used to add images to a web page.
+2. You must *always* specify an src attribute to indicate the source of an image and an alt attribute to describe the content of an image.
+3. Photograhps are best saved as JPEGs & illustrations or logos that use flat colors are better saved as GIFs.
+
+###*Color!*
+1. How to specify colors
+2. Color terminology and contrast
+3. Background color
+
+Colors can really bring your pages to life.
+This chapter looks at:
+1. How to specify colors
+>Color Terminology
+>Background colors for behind your entire page
+
+Color pickers can help you find the color you want.
+Color conveys mood and evokes reactions.
+
+#**TEXT**
+
+.Size and typeface of text
+. Bold italics, capitals, underlines
+. Spacing b/t lines, words, and letters
+Properties that allow you to control the appereance of text can be split into two groups:
+1. Those that directly affect the font and its appearance, whether it's regualar, bold, or italic.
+2. Those that would have the same effect on text no matter what font you were using.

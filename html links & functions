@@ -1,0 +1,36 @@
+ ##**LINKS**
+ -Creating links b/t pages
+ - Linking to other sites
+ - Email links
+ 1. Links are the defining feature of the web b/c they allow you to move from one web page to another
+ 
+ *Common* links include:
+ 1. Links from one website to another
+ 2. Links from one web page to another on the same website'
+ 3. Links from one part of a web page to another part of the same page
+ 4. Links that open in a new browser window
+ Links that start up your email program and address a new email to someone.
+ 
+ ###How are links created?
+ . Lionks are created using the <a> element.
+ . When you link to a different website, the value of the href attribute will be the full web address for the site known as the *absolute* url.
+ . You can use the id atttribute to target elements within a page that can be linked to.
+ 
+ ##**LAYOUT**
+ 1. Controlling the position of elements
+ 2. Creating size layouts
+ 3. Designing for different sized screens
+ 
+ In this chapeter we look at:
+ -Exploring different ways to position elements using normal flow, relative positioning, absolute positioning and floats.
+ - Discover how various devices have different screen sizes and resolutions, and how this affecrts the design process.
+ -Learn the difference b/t fixed width and liquid layouts, and how they are created.
+ - Find out how designers use grids to make their page designs look more professional.
+ 
+ Compostion in any visual arts is the placement of visual elements. Many dessigners use a grid structure to help them position items on a page.
+ 1. The float property moves content to the left or right of the page and can be used to create multi-column layouts.
+ 2. You can include multiple CSS files in one page.
+ 3. <div> elements are often used as containing elements to group together sections of a page.
+ 
+ 
+ 

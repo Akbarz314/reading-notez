@@ -27,3 +27,4 @@ I'm **Rashad**. I enjoy cooking, reading, and learning to code!!!. {Github}(http
 9. <a href="https://github.com/Akbarz314/reading-notez/commit/fc96558668d85228ca9f48f69bc451d4b75a56d7" target="blank">Create Script for web page</a>
 10. <a href="https://github.com/Akbarz314/reading-notez/commit/e844de578c716d1b897c30d1191b13a51a80d6cb" target="blank">Strength's and Values</a>
 11. <a href="https://github.com/Akbarz314/reading-notez/commit/945b59c64854d803711f33d3347b9540adde32c2" target="blank">Create the coder's computer</a>
+12. <a href="https://github.com/Akbarz314/reading-notez/commit/baf6493344ad320eb463aac675b5dd1167fabafa" target="blank">HTML links & functions</a>

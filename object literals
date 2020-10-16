@@ -1,0 +1,13 @@
+#**What is an object**??
+1. *Objects* group together a set of variables and functions to create a model of something you would recognize in the real world. In an object,variables and functions take on new names.
+
+2. If a variable is part of an object, it's called **property**.
+3. If a function is part of an object, it's called a *method*.
+
+
+##**Document Object Model**
+-The DOM specifies how browsers should create a model of an HTML page and how JavaScript can access and update the contents of a web pagw while it's in the browser window.
+Methods that find elements in the DOM tree are called DOM queries. When you need to wotk with an element more than once, you should use a variable to store the result of this query.
+
+. An element node can contain multiple text nodes and child elements that are siblings of each other.
+.The browser represetns the page using a dom tree.

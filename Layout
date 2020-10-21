@@ -1,0 +1,12 @@
+##**LAYOUT**
+1. Controlling the position of elements
+2. Creating site layouts
+3. Designing for different sized screens.
+
+. <div> eleemtns are often used as containing elements to group together sections of a page.
+. *Browsers* display pages in normal flow unless you specify relative, absolute, or fixed positioning.
+. Designers keep pages within 960-1000 pixels wide.
+
+1. Grids help create professional and flexible designs.
+2. CSS Frameworks provide rules for common tasks
+3. The float property moves content to the left or right of the page and can be used in multi-column.

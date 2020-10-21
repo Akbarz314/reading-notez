@@ -1,0 +1,24 @@
+##*Tables*
+1. There's certain info that needs to be stored in a grid or a table. 
+
+.There are four key elements for creating tables
+.Add captions to tables
+Repreaent complex data using tables
+
+You can make cells of a table span more than one row or column using the rowspan and colspan attributes.
+. The <table> element is used to add tables to a web page.
+
+
+###**Functions,methods, and objects**
+
+1. The keyword *this* is commonly used inside of functions and objects. Where the function is declared alters what *this* means. It often refers to one object.
+2. Arrays are actually a special type of object. They hold a related set of key/value pairs. The key to each value is it's index number.
+
+You can combine arrays and objects to create complex data structures. Arrays store a series of objects.
+
+. Browsers: come with a set of built-in objects that represent things like the browser window and the current web page ahown in that window.
+3. In JavaScript there are six data types.
+4. In order to work w/ dates, create an instance of the Date object. Use this to specify the time and date that you want it to represent. 
+
+. An **object** is a series of variables and functions that reoresent something from the world around you.
+. Fumctions allow you to group a set of related statements together to represent a single task.
